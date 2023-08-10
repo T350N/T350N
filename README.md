@@ -1,15 +1,19 @@
 <h1 align="center">Hi 👋, I'm César Herrera</h1>
 <h3 align="center">A passionate Backend developer from Honduras</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=t350n&label=Profile%20views&color=0e75b6&style=flat" alt="t350n" /> </p>
+- 🌱 I’m currently learning **nestjs, Pyton, laravel, react ...**
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=t350n" alt="t350n" /></a> </p>
+- 📝 I regularly write articles on [https://cesarherrera1.blogspot.com/2022/07/](https://cesarherrera1.blogspot.com/2022/07/)
+
+- 💬 Ask me about **nodejs or backend frameworks**
+
+- 📫 How to reach me **cahf2001@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/césar herrera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="césar herrera" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/cesar herrera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="cesar herrera" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/cesar herrera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="cesar herrera" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/césar-herrera-427752217/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/césar-herrera-427752217/" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/https://es.stackoverflow.com/users/254129/cesar-herrera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://es.stackoverflow.com/users/254129/cesar-herrera" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucxtcj-4mw4x1gznksihxy3a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucxtcj-4mw4x1gznksihxy3a" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -18,5 +22,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=t350n&show_icons=true&locale=en&layout=compact" alt="t350n" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=t350n&show_icons=true&locale=en" alt="t350n" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=t350n&" alt="t350n" /></p>
